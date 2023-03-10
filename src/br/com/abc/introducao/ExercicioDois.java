@@ -1,3 +1,5 @@
+package br.com.abc.introducao;
+
 public class ExercicioDois {
     public static void main(String[] args ) {
         String nome = "joao";
